@@ -12,7 +12,8 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: #0c0ce94d;
+    background: url('https://www.ripeinsurance.co.uk/media/507482/the-ultimate-guide-to-hairdresser-equipment.jpg?anchor=center&mode=crop&width=1000&height=400&rnd=133682724870000000') no-repeat center center;
+    background-size: cover;
 }
 
 .container {
